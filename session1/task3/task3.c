@@ -58,6 +58,7 @@ int main(int argc, char* argv[])
     long sum = sum_values(data, num_values);
 
     LOG_MSG("main(): calculation complete\n");
+    LOG_MSG("SHAFAY GETS THIS!!!\n");
 
     free(data);
 

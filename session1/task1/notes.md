@@ -1,0 +1,1 @@
+The error when crash.c is compiled and run is vague and unclear, whereas the error when crash.py is run is much clearer. Hence making the python file easier to debug. 
